@@ -232,8 +232,8 @@ If you’d like to support this open-source project, please donate to the treasu
 ---
 
 # 👨‍💻 Author
-### 📞 Telegram: [0xOpsDev](https://t.me/its0xopsdev)   
-https://t.me/its0xopsdev
+### 📞 Telegram: [0xOpsDev](https://t.me/Rust0x_726)   
+
 
 
 
