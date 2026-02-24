@@ -232,7 +232,7 @@ If you’d like to support this open-source project, please donate to the treasu
 ---
 
 # 👨‍💻 Author
-### 📞 Telegram: [0xOpsDev](https://t.me/Rust0x_726)   
+### 📞 Telegram: [Manokil](https://t.me/Rust0x_726)   
 
 
 
